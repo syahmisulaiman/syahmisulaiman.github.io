@@ -1,32 +1,35 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Syahmi Sulaiman Portfolio
 
+Welcome to the **Syahmi Sulaiman Portfolio** repository! This is the source code for my personal portfolio website hosted on GitHub Pages at [syahmi.sulaiman.github.io](https://syahmi.sulaiman.github.io). 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## About the Portfolio
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This portfolio showcases:
+- My professional background.
+- Projects I've worked on, demonstrating my skills and expertise.
+- My contact information for collaboration or job opportunities.
 
-(* = not included)
+It serves as a centralized platform for visitors to learn about me and explore my work.
 
-AJ
-aj@lkn.io | @ajlkn
+## Features
 
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Project Highlights**: A detailed overview of my key projects.
+- **Contact Section**: Easy-to-use contact form and social media links.
+- **Modern Technologies**: Built using HTML, CSS, JavaScript, and any additional libraries/tools.
 
-Credits:
+## Technologies Used
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- **HTML5**: Markup structure of the website.
+- **CSS3**: Styling for layout and responsiveness.
+- **JavaScript**: Interactivity and dynamic elements.
+- **GitHub Pages**: Hosting the website.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## How to View
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+The portfolio is live and can be viewed at:
+[https://syahmi.sulaiman.github.io](https://syahmi.sulaiman.github.io)
+
+Alternatively, you can clone this repository and view it locally:
+```bash
+git clone https://github.com/syahmi.sulaiman/syahmi.sulaiman.github.io.git
